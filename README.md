@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is George;s Github page
+This is George's Github page
 
 There's nothing much on it right now.
 
